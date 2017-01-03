@@ -1,0 +1,124 @@
+.group_content{
+    color: #979797;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.busin_1content{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 145px;
+}
+.busin1_item{
+    float: left;
+    margin-right: 23px;
+    width: 200px;
+    height: 620px;
+    overflow: hidden;
+    border-bottom: 2px solid  #eab260;
+}
+.busin_1font{
+    overflow: hidden;
+    font-size: 14px;
+}
+.busin_1font h1{
+    font-size: 20px;
+    margin-top: 80px;
+    margin-bottom: 43px;
+}
+.busin_1font p{
+    color: #808080;
+    text-align: justify;
+}
+.busin1_item img{
+    width: 205px;
+    height: 283px;
+}
+.busin1_item:nth-child(5){
+    margin-right: 0;
+}
+.company_content{
+    line-height: 30px;
+    color: #eab260;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+    margin-bottom: 120px;
+}
+
+/*busin2*/
+.busin2_img{
+    overflow: hidden;
+}
+.busin2_img img{
+    display: inline-block;
+    width: 730px;
+    height: 446px;
+    float: left;
+}
+.busin2_introduce{
+    overflow: hidden;
+    width: 340px;
+    height: 486px;
+    float: right;
+}
+.busin2_introduce h1{
+    color: #eab260;
+    font-size: 24px;
+    font-weight: 200;
+    margin: 0 0 13px;
+}
+.busin2_introduce p{
+    color: #7f7f7f;
+    font-size: 14px;
+    text-indent: 2em;
+    text-align: justify;
+    margin-bottom: 13px;
+}
+.busin2_content{
+    overflow: hidden;
+    margin-bottom: 147px;
+}
+.busin2_item{
+    overflow: hidden;
+    width: 360px;
+    float: left;
+    margin-right: 8px;
+}
+.busin2_item:nth-child(3){
+    margin-right:0 ;
+}
+.busin2_imgwrap{
+    overflow: hidden;
+    width: 360px;
+    height: 260px;
+    background-size: cover;
+    margin-bottom: 40px;
+}
+.busin2_imgwrap h1{
+    margin: 0;
+    font-size: 36px;
+    line-height: 280px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.busin2_bg1{
+    background: url("../img/busin_p1.jpg");
+}
+.busin2_bg2{
+    background: url("../img/busin_p2.jpg");
+}
+.busin2_bg3{
+    background: url("../img/busin_p3.jpg");
+}
+.busin2_font{
+    font-size: 14px;
+    text-align: justify;
+    padding-right: 20px;
+    margin-top: 37px;
+    color: #7f7f7f;
+}
+.busin2_font p{
+    margin-bottom: 20px;
+}

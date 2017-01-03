@@ -1,0 +1,20 @@
+.group_content{
+    color: #979797;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+#dowebok { width: 1100px; margin: 60px 0 130px 0; font-size: 0;}
+#dowebok {padding: 0}
+#dowebok li { display: inline-block; width: 32%; margin-left: 1%; padding-top: 1%;}
+#dowebok li img { width: 100%;}
+.company_content{
+    line-height: 30px;
+    color: #eab260;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+    margin-bottom: 120px;
+}
+
